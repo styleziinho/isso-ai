@@ -1,8 +1,13 @@
 body{
-    background: #CCCCCC;
+    
 }
 #banner {
     width: 100%;
+}
+.principal
+{
+    background: #CCCCCC;
+    padding: 30px;
 }
 h1 {
     text-align: center;
